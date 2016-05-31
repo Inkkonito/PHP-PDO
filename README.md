@@ -6,7 +6,7 @@ Here goes a simple PDO project for beginners, as well as a easy way to learn CRU
 The main objective here, is not showing how is the best way to connect you database. The idea behind it is just to help new people in their PDO studies.
 As you can realize, there are no design partterns or frameworks implemented here. I hope this helps in your learning.
 
-## Database Structure
+## Database structure
 
 ```go
 --
@@ -15,8 +15,6 @@ As you can realize, there are no design partterns or frameworks implemented here
 
 CREATE SCHEMA IF NOT EXISTS `test` DEFAULT CHARACTER SET utf8 ;
 USE `test` ;
-
--- --------------------------------------------------------
 
 --
 -- Table structure for table `users`
