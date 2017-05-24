@@ -29,4 +29,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 ```
 
-After creating the database structure, try to play a bit with the PDO structure. Enjoy it.
+After creating the database structure, try to play a bit with its statements. Enjoy it.
