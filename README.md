@@ -1,10 +1,10 @@
 # PDO
 
-PHP Data Objects is a good way to connect and access your database.
-Here goes a simple PDO project for beginners, as well as a easy way to learn CRUD with this basic structure.
+PHP Data Objects are good ways to connect and access your database.
+Here it goes a simple PDO project for beginners, as well as an easy way to learn CRUD with this basic structure.
 
-The main objective here, is not showing how is the best way to connect you database. The idea behind it is just to help new people in their PDO studies.
-As you can realize, there are no design partterns or frameworks implemented here. I hope this helps in your learning.
+The main objective here, is not showing how is the best way to connect you database. The idea behind it is just to help new people in their PDO studies and structures.
+As you can realize, there are no design partterns or frameworks implemented here. The idea is letting it as simple as possible so that it can be helpful for your learning.
 
 ## Database structure
 
@@ -28,3 +28,5 @@ CREATE TABLE IF NOT EXISTS `users` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 ```
+
+After creating the database structure, try to play a bit with the PDO structure. Enjoy it.
